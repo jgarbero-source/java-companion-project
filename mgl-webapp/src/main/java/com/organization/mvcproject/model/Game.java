@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Game {
-	
+	//changes were superficial
 	private Long id;
 	private String name;
 	private String genre;
